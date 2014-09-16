@@ -1,6 +1,6 @@
 {
   "name": "broccoli-pages",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Build HTML pages from Markdown and HTML fragments",
   "main": "./lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "marked": "~0.3.2",
-    "broccoli": "^0.9.0",
+    "broccoli": "^0.12.3",
     "broccoli-filter": "~0.1.6",
     "js-yaml": "~3.0.2",
     "rsvp": "~3.0.6",
