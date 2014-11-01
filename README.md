@@ -46,4 +46,4 @@ html = HBSPages(html, options);
 module.exports = html;
 ```
 
-You can see an example [Brocfile.js](Brocfile.js) and [example](example) directory.
+You can see an example [Brocfile.js](example/Brocfile.js) and [example](example) directory.
